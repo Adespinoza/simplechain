@@ -8,6 +8,7 @@ Definitely give his work a look! I appreciate the time he put into his guide as 
 The original repository can be found [here](https://github.com/lhartikk/naivechain).
 
 # Installation 
+Code currently not yet working for networking peers, but here is how you would accomplish it:
 
 ### Quick start
 (set up two connected nodes and mine 1 block)
